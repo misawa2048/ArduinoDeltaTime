@@ -1,7 +1,7 @@
 # ArduinoDeltaTime
  the Tiny Time Sharing System without interrupts
   
-# Hoe to use  
+# How to use  
 ```
 #include <Arduino.h>
 #include "tmDeltaTime.h"
