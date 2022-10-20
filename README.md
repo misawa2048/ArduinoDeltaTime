@@ -1,5 +1,5 @@
 # ArduinoDeltaTime
- the Tiny Time Sharing System without interrupts
+ the Tiny Time Sharing System without hardware interrupts
   
 # How to use  
 ```
