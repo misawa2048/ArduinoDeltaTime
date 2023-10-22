@@ -4,7 +4,7 @@
 # How to use  
 ```
 #include <Arduino.h>
-#include "tmDeltaTime.h"
+#include "TmDeltaTime.h"
   :
 TmDeltaTime* pTdt= new TmDeltaTime(); // new or TmDeltaTime tdt;
 
