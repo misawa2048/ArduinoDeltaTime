@@ -24,7 +24,7 @@ void setup() {
 
 void loop() {
   pTdt->Update(); // call in loop()
-  delay(10); // Larger than minimum interval time in pTdt->AddTrig().
+  delay(10); // Smaller than minimum interval time in pTdt->AddTrig().
 }
 ```  
 [日本語版](https://qiita.com/ELIXIR/items/66435fdd357d664068e8)
