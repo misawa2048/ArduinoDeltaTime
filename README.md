@@ -1,5 +1,6 @@
 # ArduinoDeltaTime
- the Tiny Time Sharing System without hardware interrupts
+ This is the tiny TSS (Time Sharing System) without hardware interrupts.  
+ There is no semaphore, no mutex, so easy to use.
   
 # How to use  
 ```
